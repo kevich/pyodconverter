@@ -36,6 +36,10 @@ a Python module, exporting a DocumentConverter class with a very simple API.
 ChangeLog
 ---------
 
+v3.0 - 2019-06-17
+
+* Adopted original file to python3 and new version of `uno` lib
+
 v1.2 - 2012-03-10
 
 * Changed default port to 2002
